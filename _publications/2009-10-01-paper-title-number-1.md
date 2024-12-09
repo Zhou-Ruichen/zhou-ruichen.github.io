@@ -3,7 +3,7 @@ title: "On performance of vertical gravity gradient determined from CryoSat-2 al
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "High-precision and high-resolution satellite altimetry data from CryoSat-2 are widely utilized for marine gravity inversion. The vertical gravity gradient is a crucial parameter of the Earth's gravity field. To evaluate the performance of vertical gravity gradient determined from CryoSat-2 altimeter data, relevant processes and comparisons are carried out, demonstrating its high accuracy and precision."
+excerpt: "CryoSat-2 data are used for marine gravity inversion. Focusing on the Arabian Sea, SSHs are error-corrected and processed to obtain geoid and residual gradients. Using LSC and finite-difference methods, a 1 arcmin ×1 arcmin gravity anomaly gradient model is developed. Compared with the SIO V32.1 model, the RMS difference of 7.69E shows the high accuracy of CryoSat-2-derived vertical gravity gradient."
 date: 2023/08/01
 venue: 'Geophysical Journal International'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
