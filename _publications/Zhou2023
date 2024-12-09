@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Zhou2023
 excerpt: "CryoSat-2 data are used for marine gravity inversion. Focusing on the Arabian Sea, SSHs are error-corrected and processed to obtain geoid and residual gradients. Using LSC and finite-difference methods, a 1 arcmin ×1 arcmin gravity anomaly gradient model is developed. Compared with the SIO V32.1 model, the RMS difference of 7.69E shows the high accuracy of CryoSat-2-derived vertical gravity gradient."
-date: 2023/04/03
+date: 2023/04/06
 venue: 'Geophysical Journal International'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf](https://doi.org/10.1093/gji/ggad153'
 paperurl: 'https://doi.org/10.1093/gji/ggad153'
