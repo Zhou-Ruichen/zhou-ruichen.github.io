@@ -6,7 +6,7 @@ permalink: /publication/Zhou2024b
 excerpt: 'SDUST2023VGGA is a global oceanic vertical gradient of gravity anomaly (VGGA) model on a 1 arcmin ×1 arcmin grid, constructed using multi-directional mean sea surface (MSS) data from the DTU21MSS. Covering latitudes from 80°S to 80°N, this model incorporates multi-directional observations to better capture variations in the oceanic gravity field. Comparison with the SIO V32.1 model indicates a high level of consistency, supporting SDUST2023VGGA’s suitability for studies of seafloor structure, ocean geophysics, and mass distribution.'
 date: 2024-11-18
 venue: 'Zenodo'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'https://doi.org/10.5281/zenodo.14177000'
 paperurl: 'https://doi.org/10.5281/zenodo.14177000'
 citation: 'Zhou, R., Guo, J., Ya, S., Sun, H., & Liu, X. (2024). SDUST2023VGGA (V1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14177000'
 ---
