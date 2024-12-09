@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Zhou2024a
 excerpt: 'Advancements in satellite altimetry have refined MSS models, facilitating high-res VGAG model computation. Focusing on the Arabian Sea, this study used SDUST2020 MSS, DTU22 & CNES-CLS22 MDT models, and XGM2019e_2159 for remove-restore. It calculated geoid second-order derivatives in multiple directions, determined gradient components, and restored long-wavelength data to build a VGAG model. Results, validated against SIO V32.1, show effective marine gravity field extraction and uncertainty mitigation.'
 date: 2024-11-25
-venue: 'Journal 1'
+venue: 'Earth, Planets and Space'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://doi.org/10.1186/s40623-024-02105-5'
 citation: 'Zhou, R., Liu, X., Guo, J., Hwang, C., Jia, Y., Chang, X., & Sun, H. (2024). "Inverting vertical gravity anomaly gradients using multidirectional data from mean sea surface model: A case of Arabian Sea." <i>Earth, Planets and Space</i>, 234(2). doi:10.1186/s40623-024-02105-5 (Accept)'
