@@ -2,11 +2,11 @@
 title: "On performance of vertical gravity gradient determined from CryoSat-2 altimeter data over Arabian Sea"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Zhou2023
 excerpt: "CryoSat-2 data are used for marine gravity inversion. Focusing on the Arabian Sea, SSHs are error-corrected and processed to obtain geoid and residual gradients. Using LSC and finite-difference methods, a 1 arcmin ×1 arcmin gravity anomaly gradient model is developed. Compared with the SIO V32.1 model, the RMS difference of 7.69E shows the high accuracy of CryoSat-2-derived vertical gravity gradient."
 date: 2023/08/01
 venue: 'Geophysical Journal International'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf](https://doi.org/10.1093/gji/ggad153'
 paperurl: 'https://doi.org/10.1093/gji/ggad153'
 citation: 'Zhou, Ruichen, Liu, Xin, Li, Zhen, Sun, Yu, Yuan, Jiajia, Guo, Jinyun, Ardalan, Alireza A. (2023). "On performance of vertical gravity gradient determined from CryoSat-2 altimeter data over Arabian Sea." <i>Geophysical Journal International</i>. 234(2), 1519-1529.'
 ---
